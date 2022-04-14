@@ -1,0 +1,15 @@
+pupdb-0.1.4.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pupdb-0.1.4.dist-info/METADATA,sha256=BQqXhwl_49yDTzeaI9kKvlMRZvr_jaEYmjokfEUteG4,8768
+pupdb-0.1.4.dist-info/RECORD,,
+pupdb-0.1.4.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pupdb-0.1.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pupdb-0.1.4.dist-info/top_level.txt,sha256=ZRd2vNy2eNvA05uYNxZru9ANC1yr_hCK8KyPSQFbS4E,6
+pupdb/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pupdb/__pycache__/__init__.cpython-39.pyc,,
+pupdb/__pycache__/core.cpython-39.pyc,,
+pupdb/__pycache__/rest.cpython-39.pyc,,
+pupdb/__pycache__/server.cpython-39.pyc,,
+pupdb/core.py,sha256=-vDYsoqAlg6Jea0U_KtlWyVaMbNHWhVbreTIUDoVLPc,3968
+pupdb/rest.py,sha256=zZrYpykavr1SgdwasY7XTFVBypwGmiAoY3fho1-vvXg,3845
+pupdb/server.py,sha256=0pm9GOjIpoQtaV3aWidoIdbto1KtS9NWWj65C1UD-Y0,383
+pupdb/start_http_server,sha256=mao-UEwysNl1SBQleUY9dvMrajDsOZysSEqfJdqhjs4,51
